@@ -2,4 +2,5 @@
 基于cocos2d-js 3.7版本实现该控件，MultiColTableView.js为控件实现，app.js内使用该控件。
 
 注：需要启用cocos的extensions模块
+
 PS: 只做了Web适配，原生不可用，抱歉。
